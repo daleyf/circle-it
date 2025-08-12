@@ -1,0 +1,7 @@
+PySide6
+pynput
+mss
+pytesseract
+python-dotenv
+openai
+Pillow
